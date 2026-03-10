@@ -1,1 +1,10 @@
 console.log('Welcome to Node Tutorial')
+const amount = 0;
+
+if(amount < 10){
+    console.log('small number');
+} else {
+    console.log('large number');
+
+}
+console.log('hey its shubhanjali')
