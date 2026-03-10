@@ -13,6 +13,3 @@ setInterval(()=>{
   console.log("Hello world!")
 },3)
 
-setInterval(() => {
-  console.log('hello world')
-}, 1000)
